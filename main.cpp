@@ -2,7 +2,7 @@
 #include <string>
 #include <fstream>
 #include <regex>
-#include "trimming.hpp"
+#include "trimming.h"
 
 int parse_file(std::string file_name) {
     // Open file
